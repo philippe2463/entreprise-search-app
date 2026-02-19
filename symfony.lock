@@ -35,6 +35,9 @@
             "migrations/.gitignore"
         ]
     },
+    "philippe2463/recherche-entreprises-bundle": {
+        "version": "v0.1.0"
+    },
     "phpunit/phpunit": {
         "version": "12.4",
         "recipe": {
